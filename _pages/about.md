@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Xingyuan did both his bachelor’s and master’s in mechatronics engineering at Harbin Institute of Technology. During these years, he worked on computer vision (hand pose estimation, generative models, etc.) and then shifted to model-based reinforcement learning after inspired by the World Model paper. During his master’s thesis, he studied different ways to construct the world model and evaluate them based on the information gains. After that, he worked for one year as a Machine Learning Engineer at Polixir Technology, an AI startup in Nanjing focuses on real-world RL applications. During this peroid, he discovered that no RL algorithms really works on real-world problems where data is conservative and limited. It made him believe injecting knowledge into the model is the only remedy. He joined MLRL in February 2022 as a doctoral candidate to continuous his research journey.
+I am currently pursuing my Ph.D. in the Machine Learning Research Lab at Volkswagen Group and TUM, under the guidance of Prof. Patrick van der Smagt and Dr. Maximilian Karl. Prior to joining MLRL, I obtained my bachelor's and master's degrees in Mechatronics Engineering from Harbin Institute of Technology. During my studies, I focused on computer vision and worked on projects related to hand pose estimation, generative models, and more. Later on, I became interested in model-based reinforcement learning after reading the World Model paper. I then worked as a Machine Learning Researcher at Polixir Technology, an AI startup in Nanjing, where I primarily focused on offline reinforcement learning for real-world applications.
 
-Xingyuan is interested in incorporating general knowledge into the world model in a scalable way to improve its sample efficiency and the ability to generalize to OOD data. Besides, he is generally happy to discuss any fun ideas in the AI field.
+As an AI enthusiast, I am interested in a broad range of topics within the field. My current research is focused on incorporating data-driven knowledge, such as pretrained models, into the world model to enhance its sample efficiency and generalization ability to out-of-distribution data. If you would like to discuss these topics or any other related topics, please feel free to contact me at xingyuan.zhang@argmax.ai.
+
+**I am also taking master students. If you are interested in writing your master thesis with me, feel free to drop me an e-mail.**
 
 Research Interests
 ======

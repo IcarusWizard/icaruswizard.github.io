@@ -19,3 +19,4 @@ Research Interests
 - World Models
 - Reinforcement Learning
 - Transfer Learning
+- Foundation Models

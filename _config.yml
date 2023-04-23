@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xingyuan Zhang"
 title_separator          : "-"
 name                     : &name "Xingyuan Zhang"
-description              : &description "Ph.D. student at Machine Learning Research Lab and TUM."
+description              : &description "Ph.D. student at [Machine Learning Research Lab](https://argmax.ai/) and [TUM](https://www.tum.de/)."
 url                      : https://icaruswizard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "icaruswizard.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xingyuan Zhang"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Machine Learning Research Lab and TUM."
+  bio              : "Ph.D. student at [Machine Learning Research Lab](https://argmax.ai/) and [TUM](https://www.tum.de/)."
   location         : "Munich, Germany"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "IcarusWizard"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/xingyuan-zhang-b0069a112/"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "xyzhang42"
   vine             :
   weibo            :
   xing             :

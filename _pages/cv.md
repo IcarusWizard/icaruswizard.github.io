@@ -57,6 +57,8 @@ Service
 
 Award
 ======
-* Reviewer for IROS 2023
-* Reviewer for Frontiers Robotics and AI
-* Reviewer for ICRA 2023
+* L2RPN, ICAPS 2021 Competition, First place
+* National Scholarship for Graduate Students, Second Prize, 2019
+* National Scholarship for Graduate Students, First Prize, 2018
+* National Undergraduate Innovation Project, Second Prize, 2016
+* HIT Debug Competition, First Prize, 2016

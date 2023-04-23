@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Technische Universität München, 2022 - current
+* M.Eng. in Mechatronics Engineering, Harbin Institue of Technology, 2018 - 2020
+* B.Eng. in Mechatronics Engineering, Harbin Institue of Technology, 2014 - 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Machine Learning Researcher, Polixir Technology, 2020 - 2021
+  * Conduct research on model-based and offline reinforcement learning algorithms.
+  * Develop REVIVE, a general decision-making platform that learns from historical data and expert knowledge.
+  * Organize weekly seminars to share the latest research papers and discoveries.
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -48,12 +43,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for IROS 2023
+* Reviewer for Frontiers Robotics and AI
+* Reviewer for ICRA 2023

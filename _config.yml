@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xingyuan Zhang"
 title_separator          : "-"
 name                     : &name "Xingyuan Zhang"
-description              : &description "Ph.D. student at [Machine Learning Research Lab](https://argmax.ai/) and [TUM](https://www.tum.de/)."
+description              : &description "Ph.D. student at Machine Learning Research Lab and TUM."
 url                      : https://icaruswizard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "icaruswizard.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xingyuan Zhang"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at [Machine Learning Research Lab](https://argmax.ai/) and [TUM](https://www.tum.de/)."
+  bio              : "Ph.D. student at Machine Learning Research Lab and TUM."
   location         : "Munich, Germany"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

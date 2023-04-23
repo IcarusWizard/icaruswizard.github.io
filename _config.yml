@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xingyuan Zhang"
+title                    : "Xingyuan Zhang / 张兴远"
 title_separator          : "-"
 name                     : &name "Xingyuan Zhang"
 description              : &description "Ph.D. student at Machine Learning Research Lab and TUM."

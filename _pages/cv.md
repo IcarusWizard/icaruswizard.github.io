@@ -22,14 +22,14 @@ Work experience
   * Develop REVIVE, a general decision-making platform that learns from historical data and expert knowledge.
   * Organize weekly seminars to share the latest research papers and discoveries.
   
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Programming Languages: Python, C/C++
+* Deep Learning: PyTorch, TensorFlow, Ray
+* Documentation: LaTeX, Word
+* Software: Matlab, Git, Linux
+* Hardware: Arduino, Raspberry Pi
+* Languages: English (Fluent), Chinese (Native) 
 
 Publications
 ======
@@ -48,8 +48,14 @@ Talks
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
 Service
+======
+* Reviewer for IROS 2023
+* Reviewer for Frontiers Robotics and AI
+* Reviewer for ICRA 2023
+
+Award
 ======
 * Reviewer for IROS 2023
 * Reviewer for Frontiers Robotics and AI

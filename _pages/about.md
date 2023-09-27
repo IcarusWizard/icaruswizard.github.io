@@ -20,3 +20,7 @@ Research Interests
 - Reinforcement Learning
 - Transfer Learning
 - Foundation Models
+
+News
+======
+[2023-09-22] Our paper "Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models" has been accepted at NeurIPS 2023.

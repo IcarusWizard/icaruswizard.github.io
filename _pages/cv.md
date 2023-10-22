@@ -51,7 +51,7 @@ Talks
 
 Service
 ======
-* Reviewer: IROS 2023, Frontiers Robotics and AI, ICRA 2023
+* Reviewer: IROS 2023, Frontiers Robotics and AI, ICRA 2023, ICRA 2024
 
 Award
 ======

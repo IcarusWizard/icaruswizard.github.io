@@ -23,4 +23,4 @@ Research Interests
 
 News
 ======
-[2023-09-22] Our paper "Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models" has been accepted at NeurIPS 2023. **Code, datasets and pretrained models will be released in late November.** 
+[2023-09-22] Our paper "Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models" has been accepted at NeurIPS 2023. Code, datasets and pretrained models are available [here](https://github.com/argmax-ai/aime). An additional [blog post](https://argmax.ai/blog/aime/) give a nice intro about the paper.

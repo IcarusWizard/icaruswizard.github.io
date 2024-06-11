@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 * Programming Languages: Python, C/C++
-* Deep Learning: PyTorch, TensorFlow, Ray
+* Deep Learning: PyTorch, JAX, TensorFlow, Ray
 * Documentation: LaTeX, Word
 * Software: Matlab, Git, Linux
 * Hardware: Arduino, Raspberry Pi
@@ -51,7 +51,7 @@ Talks
 
 Service
 ======
-* Reviewer: IROS 2023, Frontiers Robotics and AI, ICRA 2023, ICRA 2024
+* Reviewer: IROS 2023, Frontiers Robotics and AI, ICRA 2023, ICRA 2024, NeurIPS 2024
 
 Award
 ======

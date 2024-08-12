@@ -23,4 +23,6 @@ Research Interests
 
 News
 ======
+[2024-08-12] Our paper "Overcoming Knowledge Barriers: Online Imitation Learning from Observation with Pretrained World Models" has been accepted at both CVG workshop @ ICML 2024 and TAFM workshop @ RLC 2024! 
+
 [2023-09-22] Our paper "Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models" has been accepted at NeurIPS 2023. Code, datasets and pretrained models are available [here](https://github.com/argmax-ai/aime). An additional [blog post](https://argmax.ai/blog/aime/) gives a nice intro about the paper.

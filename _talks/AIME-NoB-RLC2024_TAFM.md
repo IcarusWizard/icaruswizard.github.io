@@ -8,5 +8,4 @@ date: 2023-08-09
 location: "Amherst, Massachusetts, United States"
 ---
 
-Link to the paper: https://openreview.net/forum?id=IVZ6WaPCTP
-Link to the talk: https://www.youtube.com/watch?v=W5rL1Jnyaag
+[Paper](https://openreview.net/forum?id=IVZ6WaPCTP) and [talk](https://www.youtube.com/watch?v=W5rL1Jnyaag).

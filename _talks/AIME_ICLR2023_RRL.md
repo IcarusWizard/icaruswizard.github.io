@@ -1,5 +1,5 @@
 ---
-title: "AIME ICLR2023 RRL workshop"
+title: "AIME RRL workshop @ ICLR 2023"
 collection: talks
 type: "Talk"
 permalink: /talks/AIME
@@ -8,5 +8,4 @@ date: 2023-05-04
 location: "Kigali, Rwanda"
 ---
 
-Link to the paper: https://openreview.net/pdf?id=vjSwY0mftz
-Link to the talk: https://www.youtube.com/watch?v=oHuesO_RhlQ
+[Paper](https://openreview.net/pdf?id=vjSwY0mftz) and [talk](https://www.youtube.com/watch?v=oHuesO_RhlQ).

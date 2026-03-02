@@ -12,7 +12,7 @@ I am currently pursuing my Ph.D. in the Machine Learning Research Lab at Volkswa
 
 As an AI enthusiast, I am interested in a broad range of topics within the field. My current research is on the potential of pretrained world model as a foundation model for decision-making. If you would like to discuss these topics or any other related topics, please feel free to contact me at xingyuan.zhang@tum.de.
 
-**Looking for postdoc positions.**
+**Looking for postdoctoral positions and expect to begin in early 2026..**
 <!-- **I am also taking master students. If you are interested in writing your master thesis with me, feel free to drop me an e-mail.** -->
 
 Research Interests

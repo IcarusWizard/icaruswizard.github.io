@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am currently pursuing my Ph.D. in the Machine Learning Research Lab at Volkswagen Group and TUM, under the guidance of Prof. Patrick van der Smagt, Dr. Philip Becker-Ehmck and Dr. Maximilian Karl. Prior to joining MLRL, I obtained my bachelor's and master's degrees in Mechatronics Engineering from Harbin Institute of Technology. During my studies, I focused on computer vision and worked on projects related to hand pose estimation, generative models, and more. Later on, I became interested in model-based reinforcement learning after reading the World Model paper. I then worked as a Machine Learning Researcher at Polixir Technology, an AI startup in Nanjing, where I primarily focused on offline reinforcement learning for real-world applications.
+I am currently a Postdoctoral Research Associate at The University of Manchester under the team of [Prof. Samuel Kaski](https://kaski-lab.com/). Previously, I did my Ph.D. in the Machine Learning Research Lab at Volkswagen Group and Technical University of Munich, under the guidance of Prof. Patrick van der Smagt, Dr. Philip Becker-Ehmck and Dr. Maximilian Karl. Prior to joining MLRL, I obtained my bachelor's and master's degrees in Mechatronics Engineering from Harbin Institute of Technology. During my studies, I focused on computer vision and worked on projects related to hand pose estimation, generative models, and more. Later on, I became interested in model-based reinforcement learning after reading the World Model paper. I then worked as a Machine Learning Researcher at Polixir Technology, an AI startup in Nanjing, where I primarily focused on offline reinforcement learning for real-world applications.
 
 As an AI enthusiast, I am interested in a broad range of topics within the field. My current research is on the potential of pretrained world model as a foundation model for decision-making. If you would like to discuss these topics or any other related topics, please feel free to contact me at xingyuan.zhang@tum.de.
 
-**Looking for postdoctoral positions and expect to begin in early 2026..**
+<!-- **Looking for postdoctoral positions and expect to begin in early 2026..** -->
 <!-- **I am also taking master students. If you are interested in writing your master thesis with me, feel free to drop me an e-mail.** -->
 
 Research Interests
@@ -25,6 +24,7 @@ Research Interests
 
 News
 ======
+[2025-04-15] I start a new position of Postdoctoral Research Associate at The University of Manchester under the team of [Prof. Samuel Kaski](https://kaski-lab.com/).
 [2025-04-24] Our paper "Overcoming Knowledge Barriers: Online Imitation Learning from Visual Observation with Pretrained World Models" has been accepted at TMLR. [paper](https://openreview.net/forum?id=BaRD2Nfj41), [code](https://github.com/IcarusWizard/AIME-NoB), [video](https://youtu.be/4yO3Q2AM-7o).
 
 [2025-04-16] Our paper "Recurrent world model with tokenized latent states" has been accepted at ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling. [paper](https://openreview.net/pdf?id=xmwcdUdcWz).

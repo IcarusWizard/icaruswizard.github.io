@@ -24,6 +24,8 @@ Research Interests
 
 News
 ======
+[2025-09-07] I defend my PhD thesis "Imitation Learning with Pretrained World Models"! Thesis available now at [TUM Library](https://mediatum.ub.tum.de/?id=1838771).
+
 [2025-05-25] Our paper "Freeze the Policy, Infer the Goal: Cross-Domain Imitation with World Models" has been accepted at the DEMO workshop at ICML 2026. Links: [paper](https://openreview.net/forum?id=gyshepepSu).
 
 [2025-04-15] I start a new position of Postdoctoral Research Associate at The University of Manchester under the team of [Prof. Samuel Kaski](https://kaski-lab.com/).
